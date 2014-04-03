@@ -1,0 +1,4 @@
+autoreconf
+./configure [options]
+make && make install
+
